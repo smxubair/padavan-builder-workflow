@@ -10,6 +10,7 @@ PADAVAN_THEMES_BRANCH="main"
 PADAVAN_THEMES=(
   blue
   blue2
+  common
   grey
   grey2
   white
